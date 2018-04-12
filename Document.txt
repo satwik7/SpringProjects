@@ -1,4 +1,4 @@
 This is the first file.
 This is the second line added to the document.
 This is the third line addded to the document.
-This is the fourth line added to the document.
+This is the fourth line of the document.
